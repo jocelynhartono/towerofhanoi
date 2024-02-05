@@ -1,1 +1,2 @@
-ENGG1330 - Computer Programming I Final Group Project
+ENGG1330 - Computer Programming I 
+Final Group Project
